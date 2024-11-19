@@ -1,0 +1,174 @@
+.heading-1 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Roboto Serif", serif;
+  line-height: 37px;
+}
+.heading-2 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Roboto Serif", serif;
+  line-height: 28px;
+}
+.heading-3 {
+  font-family: "Roboto Serif", serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23.42px;
+}
+.heading-4 {
+  font-family: "Roboto Serif", serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.08px;
+}
+.heading-5 {
+  font-family: "Roboto Serif", serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18.74px;
+}
+.heading-6 {
+  font-family: Roboto Serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16.39px;
+}
+
+.heading-L {
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28.13px;
+}
+.heading-N {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23.44px;
+  color: #333333;
+}
+.heading-S {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18.75px;
+}
+
+.body-M {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.body-L {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+}
+.body-N {
+  font-family: "Roboto";
+  font-size: 13px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.body-S {
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.Rectangle-1 {
+  color: #18629d;
+}
+.Rectangle-2 {
+  color: #305bbf;
+}
+.Rectangle-3 {
+  color: #0d3d66;
+}
+.Rectangle-4 {
+  color: #2878b7;
+}
+.Rectangle-5 {
+  color: #2878b7;
+}
+.Rectangle-6 {
+  color: #333333;
+}
+.Rectangle-7 {
+  color: #696969;
+}
+.Rectangle-8 {
+  color: #e8eef3;
+}
+.Rectangle-9 {
+  color: #f5f7fa;
+}
+
+.Red-D {
+  color: #e74c3c;
+}
+.Green-D {
+  color: #00ab66;
+}
+.Green-D1 {
+  color: #00ab66;
+}
+.purple-D {
+  color: #9d46ff;
+}
+.Orange-D {
+  color: #ffb952;
+}
+
+.light-Bg {
+  color: #e8eef3;
+}
+.gray-L {
+  color: #c9c9c9;
+}
+.gary {
+  color: #929292;
+}
+.Green-L {
+  color: #f3f9ef;
+}
+
+.light-BG {
+  background-color: #e8eef3;
+}
+.Orange-L {
+  background-color: #fff8e0;
+}
+
+.Green-L {
+  background-color: #f3f9ef;
+}
+.Green-D {
+  background-color: #00ab66;
+}
+.Orange-DT {
+  background-color: #ffb952;
+}
+.Red-D {
+  background-color: #e74c3c;
+}
+
+.brand {
+  background-color: #18629d;
+}
+.white {
+  background-color: #ffffff;
+}
+.Red-L {
+  background-color: #f5e3e3;
+}
+
+.btn-color {
+  background-color: #18629d;
+}
